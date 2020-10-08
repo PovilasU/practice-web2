@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <p>This is website for practicing 2</p>
-      <p>second paragraph</p>
+      <p>second paragraph2</p>
     </div>
   );
 }
